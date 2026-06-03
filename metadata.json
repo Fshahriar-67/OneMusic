@@ -1,0 +1,6 @@
+{
+  "name": "OneMusic",
+  "description": "A premium OnePlus and Spotify-inspired music player for locally stored audio files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
